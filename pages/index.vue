@@ -3,7 +3,7 @@
     <div class="hero-content text-center min-h-96">
       <div class="max-w-md">
         <h1 class="text-5xl font-bold">
-          Hello there
+          Hello There
         </h1>
         <p class="py-6">
           Provident cupiditate voluptatem et in. Quaerat fugiat ut assumenda excepturi exercitationem
